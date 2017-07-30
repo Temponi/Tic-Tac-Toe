@@ -1,0 +1,16 @@
+body {
+    background-color: #444;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+.btn-default {
+    height: 50px;
+    width: 50px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
